@@ -11,4 +11,12 @@ mastering SQL from basics to advanced queries.
 | [1148-article-views-i](https://github.com/HasiniKola/SQL_mastery/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/HasiniKola/SQL_mastery/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HasiniKola/SQL_mastery/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
