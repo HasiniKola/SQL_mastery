@@ -14,9 +14,26 @@ mastering SQL from basics to advanced queries.
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
