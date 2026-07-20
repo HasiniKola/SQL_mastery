@@ -36,4 +36,12 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HasiniKola/SQL_mastery/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HasiniKola/SQL_mastery/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
