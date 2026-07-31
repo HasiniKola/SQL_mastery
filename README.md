@@ -14,6 +14,7 @@ mastering SQL from basics to advanced queries.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -24,6 +25,7 @@ mastering SQL from basics to advanced queries.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
