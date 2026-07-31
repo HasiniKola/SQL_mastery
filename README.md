@@ -28,6 +28,7 @@ mastering SQL from basics to advanced queries.
 | [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@ mastering SQL from basics to advanced queries.
 | ------- |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -49,4 +51,8 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HasiniKola/SQL_mastery/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
