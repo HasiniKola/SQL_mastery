@@ -16,6 +16,7 @@ mastering SQL from basics to advanced queries.
 | ------- |
 | [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasiniKola/SQL_mastery/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/HasiniKola/SQL_mastery/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -68,4 +69,8 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HasiniKola/SQL_mastery/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/HasiniKola/SQL_mastery/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
