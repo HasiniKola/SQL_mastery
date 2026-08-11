@@ -30,6 +30,7 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HasiniKola/SQL_mastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/HasiniKola/SQL_mastery/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ mastering SQL from basics to advanced queries.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HasiniKola/SQL_mastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/HasiniKola/SQL_mastery/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/HasiniKola/SQL_mastery/tree/master/0383-ransom-note) |
@@ -77,4 +79,8 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HasiniKola/SQL_mastery/tree/master/0066-plus-one) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HasiniKola/SQL_mastery/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
