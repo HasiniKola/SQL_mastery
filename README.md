@@ -20,6 +20,7 @@ mastering SQL from basics to advanced queries.
 | [0066-plus-one](https://github.com/HasiniKola/SQL_mastery/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HasiniKola/SQL_mastery/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ mastering SQL from basics to advanced queries.
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HasiniKola/SQL_mastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HasiniKola/SQL_mastery/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -42,6 +44,7 @@ mastering SQL from basics to advanced queries.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasiniKola/SQL_mastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -49,10 +52,12 @@ mastering SQL from basics to advanced queries.
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HasiniKola/SQL_mastery/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HasiniKola/SQL_mastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HasiniKola/SQL_mastery/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
@@ -83,4 +88,16 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HasiniKola/SQL_mastery/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
