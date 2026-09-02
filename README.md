@@ -17,6 +17,7 @@ mastering SQL from basics to advanced queries.
 | [0001-two-sum](https://github.com/HasiniKola/SQL_mastery/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasiniKola/SQL_mastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/HasiniKola/SQL_mastery/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/HasiniKola/SQL_mastery/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HasiniKola/SQL_mastery/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HasiniKola/SQL_mastery/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasiniKola/SQL_mastery/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/HasiniKola/SQL_mastery/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HasiniKola/SQL_mastery/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -100,4 +102,8 @@ mastering SQL from basics to advanced queries.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HasiniKola/SQL_mastery/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HasiniKola/SQL_mastery/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
